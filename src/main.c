@@ -1,5 +1,5 @@
 #include <gb/gb.h>
-#include "Z94SNQ_splashscreen.h"
+#include "graphics/Z94SNQ_splashscreen.h"
 
 void main(void)
 {
